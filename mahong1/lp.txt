@@ -7868,7 +7868,7 @@
           <h2 class="h4 text-warning mb-3">Trending Tags</h2>
           <div class="d-flex flex-wrap">
             <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">MAHONGTOTO</a>
-            <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">KOI TOTO</a>
+            <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">MAHONG TOTO</a>
             <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">SITUS TOTO</a>
             <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">AGEN TOGEL</a>
             <a class="badge badge-pill badge-warning text-dark p-3 mr-2 mb-2" href="https://colystromboli.com/">TOGEL ONLINE</a>
@@ -13748,12 +13748,12 @@
 </script>
 <footer class="footer-cta">
   <div class="cta-footer">
-    <a href="https://direct.lc.chat/13532091" class="btn"><span>LIVECHAT</span></a>
-    <a href="https://link.alternatifkoi.info" class="btn"><span>LINK</span></a>
-    <a href="https:https://ramekali.me/mahongcls" class="btn"><span>LOGIN</span></a>
-    <a href="https:https://ramekali.me/mahongcls" class="btn"><span>DAFTAR</span></a>
-    <a href="https://mikale.me/promo-koi" class="btn"><span>PROMO</span></a>
-    <a href="https://mikale.me/prediksikoi" class="btn"><span>PREDIKSI</span></a>
+    <a href="##$$" class="btn"><span>LIVECHAT</span></a>
+    <a href="##$$" class="btn"><span>LINK</span></a>
+    <a href="##$$" class="btn"><span>LOGIN</span></a>
+    <a href="##$$" class="btn"><span>DAFTAR</span></a>
+    <a href="##$$" class="btn"><span>PROMO</span></a>
+    <a href="##$$" class="btn"><span>PREDIKSI</span></a>
   </div>
  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"b29e8bc30b1849a5bd9e7bcfaad52b0d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a0e89c04290584d9',t:'MTc4MTkzNTgxNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
